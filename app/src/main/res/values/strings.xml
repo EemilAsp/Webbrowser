@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Webbrowser</string>
+    <string name="http">http://</string>
+    <string name="description" />
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="shout">Shout</string>
+    <string name="init">init</string>
+</resources>
